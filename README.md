@@ -5,7 +5,7 @@
 - 📫 How to reach me: You can either reach me here or on Discord at keff#0002!
 
 
-[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-workhub)](https://github.com/anuraghazra/github-readme-stats)
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-workhub&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 dylan-workhub/dylan-workhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
